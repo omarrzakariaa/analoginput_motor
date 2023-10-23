@@ -1,2 +1,2 @@
 # analoginput_motor
-The purpose of this project is to learn how to read analog inputs and relative encoders on the 16/32 Explorer board using the C programming language on the PIC32MX795F512L microcontroller.
+The purpose of this laboratory is to learn how to read analog inputs and relative encoders on the 16/32 Explorer board using the C programming language on the PIC32MX795F512L microcontroller. A standalone project was created in MPLAB X IDE where the C programming took place using Starter Kits (PKOB) as the tool used for development and XC32 (v2.10) as the compiler. During this lab, the temperature sensor and potentiometer values were detected and recorded, in addition to the 99:1 Pololu Metal Gearmotor 25Dx54L mm LP 12 V with 48 CPR Encoder.
